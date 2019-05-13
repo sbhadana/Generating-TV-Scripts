@@ -1,6 +1,6 @@
 # Generating TV Scripts
 
-This project was developed as a part of Udacity's Deep Learning Nanodegree. In this project, i have created a Recurrent neural network from scratch using pytorch. The Neural Network I generated a new, "fake" TV script, based on patterns it reconginzes in this training data.
+This project was developed as a part of Udacity's Deep Learning Nanodegree. In this project, i have created a RNN from scratch using pytorch. The Neural Network I generated a new, "fake" TV script, based on patterns it reconginzes in this training data.
 
 
 ### Prerequisites
@@ -8,7 +8,7 @@ This project was developed as a part of Udacity's Deep Learning Nanodegree. In t
 * Python 3
 * Numpy
 * Pandas
-* MatPlotLib
+* Matplotlib
 * OpenCv
 * Pytorch
 
@@ -25,7 +25,7 @@ This project was developed as a part of Udacity's Deep Learning Nanodegree. In t
   conda create --name RNN python=3
   ```
  4. Enter your new environment:
-  * Windows: >>  ```activate RNN ```
+  ```activate RNN ```
 
  5. Ensure you have numpy, matplotlib, pandas, and jupyter notebook installed by doing the following:
   ```
